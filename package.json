@@ -1,0 +1,22 @@
+{
+  "name": "browserify-test",
+  "version": "1.0.0",
+  "description": "Browserify test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hydhaval/browserify-test.git"
+  },
+  "author": "Dhaval Patel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hydhaval/browserify-test/issues"
+  },
+  "homepage": "https://github.com/hydhaval/browserify-test",
+  "dependencies": {
+    "jquery": "^2.1.3"
+  }
+}
